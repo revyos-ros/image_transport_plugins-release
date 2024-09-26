@@ -1,3 +1,31 @@
+## image_transport_plugins (jazzy) - 4.0.2-1
+
+The packages in the `image_transport_plugins` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy image_transport_plugins --override-release-repository-push-url git@github.com:revyos-ros/image_transport_plugins-release.git` on `Thu, 26 Sep 2024 01:43:02 -0000`
+
+These packages were released:
+- `compressed_depth_image_transport`
+- `compressed_image_transport`
+- `image_transport_plugins`
+- `theora_image_transport`
+- `zstd_image_transport`
+
+Version of package(s) in repository `image_transport_plugins`:
+
+- upstream repository: https://github.com/ros-perception/image_transport_plugins.git
+- release repository: https://github.com/revyos-ros/image_transport_plugins-release.git
+- rosdistro version: `4.0.2-1`
+- old version: `4.0.0-1`
+- new version: `4.0.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## image_transport_plugins (jazzy) - 5.0.0-1
 
 The packages in the `image_transport_plugins` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy image_transport_plugins --override-release-repository-push-url git@github.com:revyos-ros/image_transport_plugins-release.git` on `Tue, 24 Sep 2024 04:56:57 -0000`
